@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm "Raed Rifay"</h1>
 <h3 align="center">A passionate frontend developer from Syria</h3>
-<img src="https://giphy.com/gifs/one-numbers-binary-code-QpVUMRUJGokfqXyfa1" alt="Binary Numbering System" >
+<img src="200.gif" alt="Binary Numbering System" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elzero-rifay&label=Profile%20views&color=0e75b6&style=flat" alt="elzero-rifay" /> </p>
 
