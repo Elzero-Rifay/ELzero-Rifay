@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elzero-rifay" alt="elzero-rifay" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: elzerorifay@gmail.com</h3>
 <p align="left">
 </p>
 
