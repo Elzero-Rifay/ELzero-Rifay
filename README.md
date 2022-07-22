@@ -2,10 +2,6 @@
 <h3 align="center">A passionate frontend developer from Syria</h3>
 <img src="binary.jpg" alt="Binary Numbering System" >
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=elzero-rifay&label=Profile%20views&color=0e75b6&style=flat" alt="elzero-rifay" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elzero-rifay" alt="elzero-rifay" /></a> </p>
-
 <h3 align="left">Connect with me: elzerorifay@gmail.com</h3>
 <p align="left">
 </p>
