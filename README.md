@@ -1,6 +1,6 @@
-<h1 style="color:chartreuse ;" align="center">Hi 👋, I'm "Raed Rifay"</h1>
+<h1 style="color:chartreuse ;" align="center">Hi 👋, I'm <Raed Rifay></h1>
 <h3 align="center">A passionate frontend developer from Syria</h3>
-<img src="binary.jpg" alt="Binary Numbering System" >
+
 
 <h3 align="left">Connect with me: elzerorifay@gmail.com</h3>
 <p align="left">
